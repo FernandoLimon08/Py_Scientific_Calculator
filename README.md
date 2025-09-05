@@ -21,6 +21,7 @@ Una calculadora de escritorio desarrollada en python con interfaz grafica basada
 ## 📌 Estado del Proyecto
 
 🟢 **En desarrollo** - Funcionalidad básica completada
+                        
                         Procedencia de operadores en desarrollo
 - [x] Interfaz gráfica
 - [x] Operaciones básicas
