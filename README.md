@@ -25,7 +25,7 @@ Una calculadora de escritorio desarrollada en python con interfaz grafica basada
                         Procedencia de operadores en desarrollo
 - [x] Interfaz gráfica
 - [x] Operaciones básicas
-- [ ] Precedencia de operadores
+- [x] Precedencia de operadores
 - [ ] Funciones científicas
 - [ ] Historial de operaciones
 
